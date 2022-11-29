@@ -1,0 +1,107 @@
+#topbar ul{
+    display: inline-block;
+    float: right;
+
+  
+
+    
+
+
+}
+#topbar ul li{
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+    margin-top: 20px;
+   
+
+    
+    
+}
+#topbar ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+nav{
+    background-color: rgb(116, 174, 228);
+    height: 80px;
+    
+}
+body{
+    margin: 0;
+}
+nav #topbar ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+strong{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    color: white;
+    position: absolute;
+}
+img{
+
+    margin-left: 100px;
+    margin-top: 30px;
+    position: absolute;
+    
+    
+}
+.container #block {
+
+    float: right;
+    margin-top: 40px;
+    display: inline-table;
+    margin-right: 130px;
+    
+
+}
+.container #block form{
+
+    border-width: 12px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin-top: 30px;
+
+}
+#submit{
+    margin-left: 80px;
+    size: 20px;
+
+}
+#pass{
+    width: 200px;
+}
+#name{
+    width: 200px;
+    margin-left: 18px;
+}
+/* #logoimg{
+    height: 60px;
+    width: 60px;
+    padding-bottom: 90px;
+
+} */
+
+#low{
+    background-color: rgb(116, 174, 228);
+    height: 400px;
+    width: 100%;
+    margin-top: 500px;
+
+
+    
+}
+#para{
+    padding-top: 10px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+
